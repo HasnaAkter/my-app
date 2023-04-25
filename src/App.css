@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  color: blue;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 20px;
+}
+.person{
+  background-color: #61dafb;
+  color: #000;
+  border: 3px solid red;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.friend{
+  background-color: #000000;
+  color: #efe9e9;
+  border: 3px solid rgb(0, 255, 4);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
